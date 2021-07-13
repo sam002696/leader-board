@@ -26,10 +26,23 @@
    }
    .header-links{
     margin-right: 30px;
+    font-size: 18px;
    }
    .header-links a{
        text-decoration: none;
        margin-right: 15px;
+       color: #FFFFFF;
+   }
+   .fa-lightbulb.fa-3x{
+    width: 40.42px;
+    height: 51px;
+    color:  #FFFFFF;
+    ;
+   }
+   .idea-style{
+       font-size: 24px;
+       font-weight: 500;
+       color: #FFFFFF;
    }
  /* Main Styling */
 .top-players{
